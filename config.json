@@ -1,0 +1,71 @@
+{
+    "bot": {
+        "token": ""
+    },
+    "colors": [
+        {
+            "name": "Black",
+            "color": "0x000000"
+        },
+        {
+            "name": "Dark Blue",
+            "color": "0x0000AA"
+        },
+        {
+            "name": "Dark Green",
+            "color": "0x00AA00"
+        },
+        {
+            "name": "Dark Aqua",
+            "color": "0x00AAAA"
+        },
+        {
+            "name": "Dark Red",
+            "color": "0xAA0000"
+        },
+        {
+            "name": "Dark Purple",
+            "color": "0xAA00AA"
+        },
+        {
+            "name": "Gold",
+            "color": "0xFFAA00"
+        },
+        {
+            "name": "Gray",
+            "color": "0xAAAAAA"
+        },
+        {
+            "name": "Dark Gray",
+            "color": "0x555555"
+        },
+        {
+            "name": "Blue",
+            "color": "0x5555FF"
+        },
+        {
+            "name": "Green",
+            "color": "0x55FF55"
+        },
+        {
+            "name": "Aqua",
+            "color": "0x55FFFF"
+        },
+        {
+            "name": "Red",
+            "color": "FF5555"
+        },
+        {
+            "name": "Light Purple",
+            "color": "0xFF00FF"
+        },
+        {
+            "name": "Yellow",
+            "color": "FFFF55"
+        },
+        {
+            "name": "White",
+            "color": "FFFFFF"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ChatColorBot",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "author": "Techfoxis <techfox.is@gmail.com>",
+  "license": "GPL-v3",
+  "dependencies": {
+    "eris": "^0.8.2"
+  }
+}
